@@ -1,0 +1,21 @@
+{"frames": [
+
+  {
+    "filename": "grass",
+    "frame": {"x":398,"y":265,"w":132,"h":99},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":132,"h":99},
+    "sourceSize": {"w":132,"h":99},
+    "pivot": {"x":0.491561,"y":0.480583}
+  },
+  {
+    "filename": "desert",
+    "frame": {"x":266,"y":723,"w":132,"h":99},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":132,"h":99},
+    "sourceSize": {"w":132,"h":99},
+    "pivot": {"x":0.491561,"y":0.480583}
+  }
+  ]}
